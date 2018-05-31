@@ -1,4 +1,4 @@
-# Python-MachineLearning
+# Python-Machine—Learning
 这里主要分享一些有关机器算法的介绍和python实现代码。
 可能包括（但不限于）如下类别的机器学习算法：
 
