@@ -1,6 +1,6 @@
 '''
-目标：比较One-Class SVM、EllipticEnvelope、Isolation Forest、
-LocalOutlierFactor这4种异常检测算法在相同数据集下的异常检测效果。
+目标：比较One-Class SVM、EllipticEnvelope、Isolation Forest(IF)、
+LocalOutlierFactor(LOF)这4种异常检测算法在相同数据集下的异常检测效果。
 '''
 
 import numpy as np
